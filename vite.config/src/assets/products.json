@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Green Glow",
+    "category": "Apple & Kale Cleanse",
+    "price": 15.99,
+    "image": "../src/assets/images/product_1.png",
+    "description": "A crisp blend of green apple, kale, cucumber, lemon, and mint. Packed with antioxidants and vitamins to give your body the fresh start it deserves.",
+    "ingredients": ["Apple", "Kale", "Cucumber", "Lemon", "Mint"],
+    "howToUse": "Shake well before drinking. Best enjoyed chilled in the morning or after a workout.",
+    "benefits": [
+      "Boosts immunity with vitamin C",
+      "Detoxifies the liver",
+      "Hydrates and refreshes",
+      "Supports healthy digestion"
+    ]
+  },
+   {
+    "id": 2,
+    "name": "Berry Blast",
+    "category": "Mixed Berry Antioxidant",
+    "price": 14.49,
+    "image": "../src/assets/images/product_2.png",
+    "description": "A powerhouse of strawberries, blueberries, and raspberries blended into a tangy-sweet juice full of antioxidants.",
+    "ingredients": ["Strawberry", "Blueberry", "Raspberry"],
+    "howToUse": "Best consumed mid-day as a snack replacement. Shake well.",
+    "benefits": [
+      "High in antioxidants for cell protection",
+      "Supports brain health",
+      "Promotes glowing skin",
+      "Aids in weight management"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Citrus Recharge",
+    "category": "Orange & Ginger Kick",
+    "price": 13.99,
+    "image": "../src/assets/images/product_3.png",
+    "description": "A zesty fusion of orange, ginger, and lemon that awakens your senses and energizes your body.",
+    "ingredients": ["Orange", "Ginger", "Lemon"],
+    "howToUse": "Drink anytime you need a refreshing pick-me-up. Shake before use.",
+    "benefits": [
+      "Boosts energy naturally",
+      "Improves digestion",
+      "Rich in antioxidants",
+      "Supports healthy skin"
+    ]
+  },
+ 
+  {
+    "id": 4,
+    "name": "Tropical Breeze",
+    "category": "Pineapple & Coconut Hydration",
+    "price": 16.99,
+    "image": "../src/assets/images/product_4.png",
+    "description": "A refreshing tropical blend of pineapple, coconut water, and mango that feels like a beach vacation in a bottle.",
+    "ingredients": ["Pineapple", "Coconut Water", "Mango"],
+    "howToUse": "Drink chilled during hot days or post-exercise for hydration.",
+    "benefits": [
+      "Rehydrates naturally with electrolytes",
+      "Supports gut health",
+      "Boosts energy",
+      "Promotes healthy hair and skin"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Detox Delight",
+    "category": "Celery & Lemon Cleanser",
+    "price": 12.99,
+    "image": "../src/assets/images/product_5.png",
+    "description": "A cleansing blend of celery, lemon, and parsley designed to flush toxins and restore balance.",
+    "ingredients": ["Celery", "Lemon", "Parsley"],
+    "howToUse": "Drink in the morning on an empty stomach for best detox results.",
+    "benefits": [
+      "Flushes out toxins",
+      "Supports weight loss",
+      "Improves digestion",
+      "Alkalizes the body"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Golden Vitality",
+    "category": "Turmeric & Carrot Immunity",
+    "price": 17.99,
+    "image": "../src/assets/images/product_6.png",
+    "description": "A golden blend of carrot, turmeric, ginger, and apple that strengthens immunity and reduces inflammation.",
+    "ingredients": ["Carrot", "Turmeric", "Ginger", "Apple"],
+    "howToUse": "Consume once daily with meals for maximum absorption.",
+    "benefits": [
+      "Fights inflammation naturally",
+      "Boosts immunity",
+      "Supports eye health",
+      "Improves joint flexibility"
+    ]
+  }
+]
