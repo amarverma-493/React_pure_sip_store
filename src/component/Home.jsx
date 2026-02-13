@@ -1,7 +1,7 @@
 import React from 'react'
 import ProductList from "../component/Product";
-import {bannerImg} from "../src/assets/images/banner_img.png";
-
+import bannerImg from "../assets/images/banner_img.png";
+import waterImg from "../assets/images/water.png";
 const Home = () => {
   return (
     <div>
@@ -34,7 +34,7 @@ fruits and greens — delivered fresh to your doorstep.</p>
         <div className='container'>
           <div className="row">
             <div className="col-lg-12">
-              <img src="../src/assets/images/water.png" alt="" className="right_absolute" />
+              <img src={waterImg} alt="" className="right_absolute" />
               <h1>
                 Featured <span>Products</span> 
               </h1>
@@ -135,7 +135,7 @@ fruits and greens — delivered fresh to your doorstep.</p>
         <div className='container'>
           <div className="row">
             <div className="col-lg-12">
-              <img src="../src/assets/images/water.png" alt="" className="right_absolute" />
+              <img src={waterImg} alt="" className="right_absolute" />
               <h1>
                 Why Choose <span>PureSip Store?</span> 
               </h1>
