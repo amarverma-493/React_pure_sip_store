@@ -1,5 +1,6 @@
 import React from 'react'
 import ProductList from "../component/Product";
+import {bannerImg} from "../src/assets/images/banner_img.png";
 
 const Home = () => {
   return (
@@ -22,7 +23,7 @@ fruits and greens — delivered fresh to your doorstep.</p>
      <p className='top_offer rise-shake'>Fresh Start Offer - 20% OFF All Green Juices!</p>
     <img src="../src/assets/images/line.png" className='' alt="" />
    </div>
-    <img className='bannr' src="../src/assets/images/banner_img.png" alt="" />
+    <img className='bannr' src={bannerImg} alt="" />
 
    </div>
 </div>
